@@ -7,4 +7,5 @@
 <ul>
 <li>HTML</li>
 <li>CSS</li>
+<li>Не адаптивный</li>
 </ul>
